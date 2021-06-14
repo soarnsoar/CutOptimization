@@ -18,10 +18,10 @@ def GetStoSqrtB(histo_s, histo_b,x1,x2):
     B=histo_b.Integral(binx1,binx2)
     
     if B<=0: 
-        print "B is zero or negative"
-        return False
+        print "B is zero or negative->",'[',x1,',',x2,']'
+        return False,S,B
     if S<0:
-        print "S is negative"
-        return False
+        print "S is negative->",'[',x1,',',x2,']'
+        return False,S,B
     ret=S/math.sqrt(B)
-    return ret
+    return ret,S,B

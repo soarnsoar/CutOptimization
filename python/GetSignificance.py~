@@ -77,6 +77,6 @@ if __name__ == '__main__':
     BKGLIST=[ 'DY', 'MultiBoson', 'qqWWqq', 'TT','tW','SingleTop','Wjets0j','Wjets1j','Wjets2j','ggWW','QCD','WW','ZHWWlnuqq_M125','WmHWWlnuqq_M125','WpHWWlnuqq_M125','qqH_hww','ggH_hww']
     
     #sgnfc=GetSignificance(1000,inputpath,VariableName,CutName,BKGLIST,0.95,1.0)
-    xlist,sgnfclist,slist,blist=GetSignificanceList(1000,inputpath,VariableName,CutName,BKGLIST)
+    xlist,sgnfclist=GetSignificanceList(1000,inputpath,VariableName,CutName,BKGLIST)
     print xlist,sgnfclist
     print len(xlist)
