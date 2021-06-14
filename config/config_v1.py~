@@ -1,0 +1,16 @@
+myconfig={
+    "Boosted2016":{
+        "cutname":"",
+        "variablename":"",
+        "bkglist":[],
+        "inputpath":"",
+    },
+
+    "Resolved2016":{
+        "cutname":"",
+        "variablename":"",
+        "bkglist":[],
+        "inputpath":"",
+    },
+
+}
