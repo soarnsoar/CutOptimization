@@ -240,7 +240,7 @@ def DrawMassMaxScore(confname,confpath,filtered=True):
     gr.SetTitle(confname+", MEKD Score maximizing S/#sqrt(B)")
     os.system("mkdir -p plots_mekd/")
     c.SaveAs("plots_mekd/maxmekdpoint_"+confname+suffix+".pdf")
-if __name__ == '__main__':
+def temp():
     #confpath="config/config_MEKD_temp.py"
     #confpath="config/config_MEKD_v1.py"
     confpath="config/config_MEKD_v4.py"
@@ -263,3 +263,14 @@ if __name__ == '__main__':
         DrawMassMEKDscoreSgnfc(conf,confpath,True,False)
         DrawMassMEKDscoreSgnfc(conf,confpath,False,False)
         DrawMassMaxScore(conf,confpath)
+
+if __name__ == '__main__':
+    confpath=sys.argv[1]
+    conf=sys.argv[2]
+    DrawMassMEKDscoreSgnfc(conf,confpath,True)
+    DrawMassMEKDscoreSgnfc(conf,confpath,False)
+    DrawMassMEKDscoreSgnfc(conf,confpath,True,False)
+    DrawMassMEKDscoreSgnfc(conf,confpath,False,False)
+    DrawMassMaxScore(conf,confpath)
+    
+    
