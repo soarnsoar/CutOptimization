@@ -1,0 +1,56 @@
+myconfig={
+    ##---2016
+    "Boosted2016":{
+        "cutname":"__BoostedALL_SR_NoMEKDCut",
+        "crcutnames":{"SB":"__BoostedALL_SB_NoMEKDCut",         "TOP":"__BoostedALL_TOP_NoMEKDCut"},
+        "variablename":"DNN_isVBF_OTF",
+        "bkglist":[ 'DY', 'MultiBoson', 'qqWWqq', 'TT','tW','SingleTop','Wjets0j','Wjets1j','Wjets2j','ggWW','QCD','WW','ZHWWlnuqq_M125','WmHWWlnuqq_M125','WpHWWlnuqq_M125','qqH_hww','ggH_hww'],
+        "inputpath":"../2016/rootFile_2016__cms_scratch_jhchoi_AN_PLOT_v3_VBFDNN_Opt_Boosted_HMFull_V13_RelW0.02_DeepAK8WP0p5_dMchi2Resolution_Combine/hadd.root",
+    },
+
+    "Resolved2016":{
+        "cutname":"___ResolvedALL__SR_NoMEKDCut",
+        #"crcutnames":{"SB":"___ResolvedALL__SB_NoMEKDCut","TOP":"___ResolvedALL__TOP_NoMEKDCut"},
+        "crcutnames":{},
+        "variablename":"DNN_isVBF_OTF",
+        "bkglist":[ 'DY', 'MultiBoson', 'qqWWqq', 'TT','tW','SingleTop','Wjets0j','Wjets1j','Wjets2j','ggWW','QCD','WW','ZHWWlnuqq_M125','WmHWWlnuqq_M125','WpHWWlnuqq_M125','qqH_hww','ggH_hww'],
+        "inputpath":"../2016/rootFile_2016__cms_scratch_jhchoi_AN_PLOT_v3_VBFDNN_Opt_Resolved_HMFull_V13_RelW0.02_DeepAK8WP0p5_dMchi2Resolution_Combine/hadd.root",
+    },
+
+    ##---2017
+    "Boosted2017":{
+        "cutname":"__BoostedALL_SR_NoMEKDCut",
+        "crcutnames":{"SB":"__BoostedALL_SB_NoMEKDCut",         "TOP":"__BoostedALL_TOP_NoMEKDCut"},
+        "variablename":"DNN_isVBF_OTF",
+        "bkglist":[ 'DY', 'MultiBoson', 'qqWWqq', 'TT','tW','SingleTop','Wjets0j','Wjets1j','Wjets2j','ggWW','QCD','WW','ZHWWlnuqq_M125','WmHWWlnuqq_M125','WpHWWlnuqq_M125','qqH_hww','ggH_hww'],
+        "inputpath":"../2017/rootFile_2017__cms_scratch_jhchoi_AN_PLOT_v3_VBFDNN_Opt_Boosted_HMFull_V13_RelW0.02_DeepAK8WP0p5_dMchi2Resolution_Combine/hadd.root",
+    },
+
+    "Resolved2017":{
+        "cutname":"___ResolvedALL__SR_NoMEKDCut",
+        "crcutnames":{},
+        #"crcutnames":{"SB":"___ResolvedALL__SB_NoMEKDCut","TOP":"___ResolvedALL__TOP_NoMEKDCut"},
+        "variablename":"DNN_isVBF_OTF",
+        "bkglist":[ 'DY', 'MultiBoson', 'qqWWqq', 'TT','tW','SingleTop','Wjets0j','Wjets1j','Wjets2j','ggWW','QCD','WW','ZHWWlnuqq_M125','WmHWWlnuqq_M125','WpHWWlnuqq_M125','qqH_hww','ggH_hww'],
+        "inputpath":"../2017/rootFile_2017__cms_scratch_jhchoi_AN_PLOT_v3_VBFDNN_Opt_Resolved_HMFull_V13_RelW0.02_DeepAK8WP0p5_dMchi2Resolution_Combine/hadd.root",
+    },
+
+    ##---2018
+    "Boosted2018":{
+        "cutname":"__BoostedALL_SR_NoMEKDCut",
+        "crcutnames":{"SB":"__BoostedALL_SB_NoMEKDCut",         "TOP":"__BoostedALL_TOP_NoMEKDCut"},
+        "variablename":"DNN_isVBF_OTF",
+        "bkglist":[ 'DY', 'MultiBoson', 'qqWWqq', 'TT','tW','SingleTop','Wjets0j','Wjets1j','Wjets2j','ggWW','QCD','WW','ZHWWlnuqq_M125','WmHWWlnuqq_M125','WpHWWlnuqq_M125','qqH_hww','ggH_hww'],
+        "inputpath":"../2018/rootFile_2018__cms_scratch_jhchoi_AN_PLOT_v3_VBFDNN_Opt_Boosted_HMFull_V13_RelW0.02_DeepAK8WP0p5_dMchi2Resolution_Combine/hadd.root",
+    },
+
+    "Resolved2018":{
+        "cutname":"___ResolvedALL__SR_NoMEKDCut",
+        "crcutnames":{},
+        #"crcutnames":{"SB":"___ResolvedALL__SB_NoMEKDCut","TOP":"___ResolvedALL__TOP_NoMEKDCut"},
+        "variablename":"DNN_isVBF_OTF",
+        "bkglist":[ 'DY', 'MultiBoson', 'qqWWqq', 'TT','tW','SingleTop','Wjets0j','Wjets1j','Wjets2j','ggWW','QCD','WW','ZHWWlnuqq_M125','WmHWWlnuqq_M125','WpHWWlnuqq_M125','qqH_hww','ggH_hww'],
+        "inputpath":"../2018/rootFile_2018__cms_scratch_jhchoi_AN_PLOT_v3_VBFDNN_Opt_Resolved_HMFull_V13_RelW0.02_DeepAK8WP0p5_dMchi2Resolution_Combine/hadd.root",
+    },
+
+}

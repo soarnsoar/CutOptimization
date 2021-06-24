@@ -11,7 +11,7 @@ def MakeCombinedHisto(inputpath,proclist,CutName,VariableName):
             h=tfile.Get(CutName+"/"+VariableName+"/"+"histo_"+proc)
 
         else:
-            
+            #print 'CutName',CutName
             htemp=tfile.Get(CutName+"/"+VariableName+"/"+"histo_"+proc)
             h.Add(htemp)
             

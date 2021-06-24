@@ -103,7 +103,7 @@ def DrawMassMEKDscoreSgnfc(confname,confpath,rel=True,filtered=True,AddMaxLine=T
         for i in range(len(xlist)):
             #print "s eff.->",xlist[i],':',slist[i]/max_s
             #if blist[i]/max_b <0.02 and filtered:
-            if (blist[i]/max_b <0.01 or slist[i]/max_s < 0.1) and filtered:
+            if (blist[i]/max_b <0.02 or slist[i]/max_s < 0.1) and filtered:
                 print xlist[i],mass
                 print '--> b decreasing to under 2%',blist[i]/max_b
                 print '--> s decreasing to under 10%',slist[i]/max_s
@@ -133,7 +133,7 @@ def DrawMassMEKDscoreSgnfc(confname,confpath,rel=True,filtered=True,AddMaxLine=T
         max_b=max(blist)
         filtered_sgnfclist=[]
         for i in range(len(xlist)):
-            if  (blist[i]/max_b <0.01 or slist[i]/max_s < 0.1) and filtered:
+            if  (blist[i]/max_b <0.02 or slist[i]/max_s < 0.1) and filtered:
                 print xlist[i],mass
                 print '--> b decreasing to under 2%',blist[i]/max_b
                 print '--> s decreasing to under 10%',slist[i]/max_s
@@ -150,13 +150,14 @@ def DrawMassMEKDscoreSgnfc(confname,confpath,rel=True,filtered=True,AddMaxLine=T
                 h.Fill(mass,xlist[i],rel_sgnfc)
             else:
                 h.Fill(mass,xlist[i],sgnfc)
+
+    c=ROOT.TCanvas()
+    h.Draw("colz")
     if AddMaxLine:
         MaxScore=GetMod(score_for_maxsgnfc_list)
         line_maxscore=ROOT.TLine(min(list(masslistbin)),MaxScore,max(list(masslistbin)),MaxScore)   ##TLine (Double_t x1, Double_t y1, Double_t x2, Double_t y2)
         line_maxscore.SetLineColor(2)
-    c=ROOT.TCanvas()
-    h.Draw("colz")
-    line_maxscore.Draw()
+        line_maxscore.Draw()
     h.SetStats(0)
     #c.SetLogx()
     #c.SetLogz()
@@ -258,19 +259,19 @@ def temp():
         +['Resolved2016_M200_0.00001','Resolved2016_M200_0.0001','Resolved2016_M200_0.001','Resolved2016_M200_0.01', 'Resolved2016_M200_0.1', 'Resolved2016_M200_1']
     for conf in conflist:
         print conf
-        DrawMassMEKDscoreSgnfc(conf,confpath,True)
-        DrawMassMEKDscoreSgnfc(conf,confpath,False)
-        DrawMassMEKDscoreSgnfc(conf,confpath,True,False)
-        DrawMassMEKDscoreSgnfc(conf,confpath,False,False)
+        DrawMassMEKDscoreSgnfc(conf,confpath,True,True,False)
+        DrawMassMEKDscoreSgnfc(conf,confpath,False,True,False)
+        DrawMassMEKDscoreSgnfc(conf,confpath,True,False,False)
+        DrawMassMEKDscoreSgnfc(conf,confpath,False,False,False)
         DrawMassMaxScore(conf,confpath)
 
 if __name__ == '__main__':
     confpath=sys.argv[1]
     conf=sys.argv[2]
-    DrawMassMEKDscoreSgnfc(conf,confpath,True)
-    DrawMassMEKDscoreSgnfc(conf,confpath,False)
-    DrawMassMEKDscoreSgnfc(conf,confpath,True,False)
-    DrawMassMEKDscoreSgnfc(conf,confpath,False,False)
+    DrawMassMEKDscoreSgnfc(conf,confpath,True,1,0)
+    DrawMassMEKDscoreSgnfc(conf,confpath,False,1,0)
+    DrawMassMEKDscoreSgnfc(conf,confpath,True,False,0)
+    DrawMassMEKDscoreSgnfc(conf,confpath,False,False,0)
     DrawMassMaxScore(conf,confpath)
     
     
