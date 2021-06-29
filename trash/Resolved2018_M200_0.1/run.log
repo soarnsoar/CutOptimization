@@ -1,0 +1,89 @@
+000 (15341594.000.000) 06/21 10:36:19 Job submitted from host: <134.75.124.127:9618?addrs=134.75.124.127-9618&noUDP&sock=2281166_b719_3>
+...
+001 (15341594.000.000) 06/21 10:36:37 Job executing on host: <134.75.127.143:9618?addrs=134.75.127.143-9618&noUDP&sock=7549_9088_3>
+...
+006 (15341594.000.000) 06/21 10:36:46 Image size of job updated: 24432
+	10  -  MemoryUsage of job (MB)
+	9648  -  ResidentSetSize of job (KB)
+...
+006 (15341594.000.000) 06/21 10:41:47 Image size of job updated: 435112
+	178  -  MemoryUsage of job (MB)
+	181376  -  ResidentSetSize of job (KB)
+...
+006 (15341594.000.000) 06/21 10:42:20 Image size of job updated: 487392
+	178  -  MemoryUsage of job (MB)
+	181376  -  ResidentSetSize of job (KB)
+...
+005 (15341594.000.000) 06/21 10:42:20 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:04:14, Sys 0 00:00:25  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:04:14, Sys 0 00:00:25  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	0  -  Run Bytes Sent By Job
+	0  -  Run Bytes Received By Job
+	0  -  Total Bytes Sent By Job
+	0  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :     0.91        1         1 
+	   Disk (KB)            :     1           1    524219 
+	   Memory (MB)          :   178        3072      3072 
+...
+000 (15341633.000.000) 06/21 10:50:39 Job submitted from host: <134.75.124.127:9618?addrs=134.75.124.127-9618&noUDP&sock=2281166_b719_3>
+...
+001 (15341633.000.000) 06/21 10:50:46 Job executing on host: <134.75.127.153:9618?addrs=134.75.127.153-9618&noUDP&sock=18828_053a_3>
+...
+006 (15341633.000.000) 06/21 10:50:55 Image size of job updated: 4688
+	5  -  MemoryUsage of job (MB)
+	4188  -  ResidentSetSize of job (KB)
+...
+006 (15341633.000.000) 06/21 10:55:56 Image size of job updated: 367164
+	77  -  MemoryUsage of job (MB)
+	78220  -  ResidentSetSize of job (KB)
+...
+006 (15341633.000.000) 06/21 10:58:31 Image size of job updated: 369248
+	77  -  MemoryUsage of job (MB)
+	78220  -  ResidentSetSize of job (KB)
+...
+005 (15341633.000.000) 06/21 10:58:32 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:03:53, Sys 0 00:00:09  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:03:53, Sys 0 00:00:09  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	0  -  Run Bytes Sent By Job
+	0  -  Run Bytes Received By Job
+	0  -  Total Bytes Sent By Job
+	0  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :     0.93        1         1 
+	   Disk (KB)            :     1           1    511144 
+	   Memory (MB)          :    77        3072      3072 
+...
+000 (15341672.000.000) 06/21 11:05:38 Job submitted from host: <134.75.124.127:9618?addrs=134.75.124.127-9618&noUDP&sock=2281166_b719_3>
+...
+001 (15341672.000.000) 06/21 11:05:52 Job executing on host: <134.75.127.146:9618?addrs=134.75.127.146-9618&noUDP&sock=32192_9ce4_3>
+...
+006 (15341672.000.000) 06/21 11:06:01 Image size of job updated: 354328
+	73  -  MemoryUsage of job (MB)
+	74420  -  ResidentSetSize of job (KB)
+...
+006 (15341672.000.000) 06/21 11:08:46 Image size of job updated: 487220
+	73  -  MemoryUsage of job (MB)
+	74420  -  ResidentSetSize of job (KB)
+...
+005 (15341672.000.000) 06/21 11:08:46 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:02:44, Sys 0 00:00:05  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:02:44, Sys 0 00:00:05  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	0  -  Run Bytes Sent By Job
+	0  -  Run Bytes Received By Job
+	0  -  Total Bytes Sent By Job
+	0  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :     0.98        1         1 
+	   Disk (KB)            :     1           1    506855 
+	   Memory (MB)          :    73        3072      3072 
+...

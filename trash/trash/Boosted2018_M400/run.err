@@ -1,0 +1,32 @@
+Traceback (most recent call last):
+  File "run_MEKD.py", line 271, in <module>
+    DrawMassMEKDscoreSgnfc(conf,confpath,True,1,0)
+  File "run_MEKD.py", line 77, in DrawMassMEKDscoreSgnfc
+    masslist=GetMassList(confname,confpath)
+  File "run_MEKD.py", line 18, in GetMassList
+    return myconfig[confname]['masslist']
+KeyError: 'Boosted2018_M400'
+Traceback (most recent call last):
+  File "run_MEKD.py", line 271, in <module>
+    DrawMassMEKDscoreSgnfc(conf,confpath,True,1,0)
+  File "run_MEKD.py", line 77, in DrawMassMEKDscoreSgnfc
+    masslist=GetMassList(confname,confpath)
+  File "run_MEKD.py", line 18, in GetMassList
+    return myconfig[confname]['masslist']
+KeyError: 'Boosted2018_M400'
+Traceback (most recent call last):
+  File "run_MEKD.py", line 271, in <module>
+    DrawMassMEKDscoreSgnfc(conf,confpath,True,1,0)
+  File "run_MEKD.py", line 77, in DrawMassMEKDscoreSgnfc
+    masslist=GetMassList(confname,confpath)
+  File "run_MEKD.py", line 18, in GetMassList
+    return myconfig[confname]['masslist']
+KeyError: 'Boosted2018_M400'
+Traceback (most recent call last):
+  File "run_MEKD.py", line 271, in <module>
+    DrawMassMEKDscoreSgnfc(conf,confpath,True,1,0)
+  File "run_MEKD.py", line 77, in DrawMassMEKDscoreSgnfc
+    masslist=GetMassList(confname,confpath)
+  File "run_MEKD.py", line 18, in GetMassList
+    return myconfig[confname]['masslist']
+KeyError: 'Boosted2018_M400'

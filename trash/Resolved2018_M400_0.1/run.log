@@ -1,0 +1,89 @@
+000 (15341589.000.000) 06/21 10:36:18 Job submitted from host: <134.75.124.127:9618?addrs=134.75.124.127-9618&noUDP&sock=2281166_b719_3>
+...
+001 (15341589.000.000) 06/21 10:36:38 Job executing on host: <134.75.127.146:9618?addrs=134.75.127.146-9618&noUDP&sock=32192_9ce4_3>
+...
+006 (15341589.000.000) 06/21 10:36:47 Image size of job updated: 10800
+	10  -  MemoryUsage of job (MB)
+	9660  -  ResidentSetSize of job (KB)
+...
+006 (15341589.000.000) 06/21 10:41:48 Image size of job updated: 450752
+	208  -  MemoryUsage of job (MB)
+	212400  -  ResidentSetSize of job (KB)
+...
+006 (15341589.000.000) 06/21 10:42:18 Image size of job updated: 498408
+	208  -  MemoryUsage of job (MB)
+	212400  -  ResidentSetSize of job (KB)
+...
+005 (15341589.000.000) 06/21 10:42:18 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:04:24, Sys 0 00:00:08  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:04:24, Sys 0 00:00:08  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	0  -  Run Bytes Sent By Job
+	0  -  Run Bytes Received By Job
+	0  -  Total Bytes Sent By Job
+	0  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :     0.92        1         1 
+	   Disk (KB)            :     1           1    506855 
+	   Memory (MB)          :   208        3072      3072 
+...
+000 (15341628.000.000) 06/21 10:50:38 Job submitted from host: <134.75.124.127:9618?addrs=134.75.124.127-9618&noUDP&sock=2281166_b719_3>
+...
+001 (15341628.000.000) 06/21 10:50:46 Job executing on host: <134.75.127.147:9618?addrs=134.75.127.147-9618&noUDP&sock=100672_326a_3>
+...
+006 (15341628.000.000) 06/21 10:50:55 Image size of job updated: 94388
+	5  -  MemoryUsage of job (MB)
+	4516  -  ResidentSetSize of job (KB)
+...
+006 (15341628.000.000) 06/21 10:55:55 Image size of job updated: 373880
+	5  -  MemoryUsage of job (MB)
+	4516  -  ResidentSetSize of job (KB)
+...
+006 (15341628.000.000) 06/21 10:57:21 Image size of job updated: 374504
+	5  -  MemoryUsage of job (MB)
+	4516  -  ResidentSetSize of job (KB)
+...
+005 (15341628.000.000) 06/21 10:57:21 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:03:48, Sys 0 00:00:09  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:03:48, Sys 0 00:00:09  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	0  -  Run Bytes Sent By Job
+	0  -  Run Bytes Received By Job
+	0  -  Total Bytes Sent By Job
+	0  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :     0.99        1         1 
+	   Disk (KB)            :     1           1    512751 
+	   Memory (MB)          :     5        3072      3072 
+...
+000 (15341667.000.000) 06/21 11:05:38 Job submitted from host: <134.75.124.127:9618?addrs=134.75.124.127-9618&noUDP&sock=2281166_b719_3>
+...
+001 (15341667.000.000) 06/21 11:05:52 Job executing on host: <134.75.127.145:9618?addrs=134.75.127.145-9618&noUDP&sock=32112_bd50_3>
+...
+006 (15341667.000.000) 06/21 11:06:01 Image size of job updated: 76884
+	10  -  MemoryUsage of job (MB)
+	9952  -  ResidentSetSize of job (KB)
+...
+006 (15341667.000.000) 06/21 11:09:02 Image size of job updated: 451060
+	10  -  MemoryUsage of job (MB)
+	9952  -  ResidentSetSize of job (KB)
+...
+005 (15341667.000.000) 06/21 11:09:02 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:02:47, Sys 0 00:00:06  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:02:47, Sys 0 00:00:06  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	0  -  Run Bytes Sent By Job
+	0  -  Run Bytes Received By Job
+	0  -  Total Bytes Sent By Job
+	0  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :     0.99        1         1 
+	   Disk (KB)            :     1           1    508304 
+	   Memory (MB)          :    10        3072      3072 
+...

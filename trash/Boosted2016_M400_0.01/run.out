@@ -1,0 +1,963 @@
+[750, 850, 950, 1250, 1750, 2250, 2750, 3500, 4500, 5500]
+B is zero or negative-> [ 1.0 , 1.0 ]
+0.89 800
+--> b decreasing to under 2% 0.161057690927
+--> s decreasing to under 10% 0.0912819948787
+0.9 800
+--> b decreasing to under 2% 0.141914851354
+--> s decreasing to under 10% 0.0772943516683
+0.91 800
+--> b decreasing to under 2% 0.124130439192
+--> s decreasing to under 10% 0.0668567566847
+0.92 800
+--> b decreasing to under 2% 0.10662060333
+--> s decreasing to under 10% 0.0500596193084
+0.93 800
+--> b decreasing to under 2% 0.0926473680079
+--> s decreasing to under 10% 0.0380060843068
+0.94 800
+--> b decreasing to under 2% 0.0768339432285
+--> s decreasing to under 10% 0.0316208359107
+0.95 800
+--> b decreasing to under 2% 0.060016809413
+--> s decreasing to under 10% 0.0213655266865
+0.96 800
+--> b decreasing to under 2% 0.046954208689
+--> s decreasing to under 10% 0.0163452889817
+0.97 800
+--> b decreasing to under 2% 0.0294158316505
+--> s decreasing to under 10% 0.0108121534134
+0.98 800
+--> b decreasing to under 2% 0.0149132160563
+--> s decreasing to under 10% 0.00424281719973
+0.99 800
+--> b decreasing to under 2% 0.00325784905687
+--> s decreasing to under 10% 0.000310064806055
+1.0 800
+--> b decreasing to under 2% 0.0
+--> s decreasing to under 10% 0.0
+max_filtered_sgnfc= 14.0086546338
+B is zero or negative-> [ 1.0 , 1.0 ]
+0.89 900
+--> b decreasing to under 2% 0.161057690927
+--> s decreasing to under 10% 0.0897413062287
+0.9 900
+--> b decreasing to under 2% 0.141914851354
+--> s decreasing to under 10% 0.0748872574135
+0.91 900
+--> b decreasing to under 2% 0.124130439192
+--> s decreasing to under 10% 0.0626968183717
+0.92 900
+--> b decreasing to under 2% 0.10662060333
+--> s decreasing to under 10% 0.0496100944279
+0.93 900
+--> b decreasing to under 2% 0.0926473680079
+--> s decreasing to under 10% 0.0399242253694
+0.94 900
+--> b decreasing to under 2% 0.0768339432285
+--> s decreasing to under 10% 0.0328108655546
+0.95 900
+--> b decreasing to under 2% 0.060016809413
+--> s decreasing to under 10% 0.0248511891736
+0.96 900
+--> b decreasing to under 2% 0.046954208689
+--> s decreasing to under 10% 0.0151889410317
+0.97 900
+--> b decreasing to under 2% 0.0294158316505
+--> s decreasing to under 10% 0.0104724064052
+0.98 900
+--> b decreasing to under 2% 0.0149132160563
+--> s decreasing to under 10% 0.00445743995967
+0.99 900
+--> b decreasing to under 2% 0.00325784905687
+--> s decreasing to under 10% 0.000662172295767
+1.0 900
+--> b decreasing to under 2% 0.0
+--> s decreasing to under 10% 0.0
+max_filtered_sgnfc= 14.2396293596
+B is zero or negative-> [ 1.0 , 1.0 ]
+0.9 1000
+--> b decreasing to under 2% 0.141914851354
+--> s decreasing to under 10% 0.0870917054002
+0.91 1000
+--> b decreasing to under 2% 0.124130439192
+--> s decreasing to under 10% 0.073664658535
+0.92 1000
+--> b decreasing to under 2% 0.10662060333
+--> s decreasing to under 10% 0.0608382102405
+0.93 1000
+--> b decreasing to under 2% 0.0926473680079
+--> s decreasing to under 10% 0.0473239533929
+0.94 1000
+--> b decreasing to under 2% 0.0768339432285
+--> s decreasing to under 10% 0.0359995671769
+0.95 1000
+--> b decreasing to under 2% 0.060016809413
+--> s decreasing to under 10% 0.0264567440168
+0.96 1000
+--> b decreasing to under 2% 0.046954208689
+--> s decreasing to under 10% 0.0165250145185
+0.97 1000
+--> b decreasing to under 2% 0.0294158316505
+--> s decreasing to under 10% 0.00918330177051
+0.98 1000
+--> b decreasing to under 2% 0.0149132160563
+--> s decreasing to under 10% 0.00368524059392
+0.99 1000
+--> b decreasing to under 2% 0.00325784905687
+--> s decreasing to under 10% 0.000541865745955
+1.0 1000
+--> b decreasing to under 2% 0.0
+--> s decreasing to under 10% 0.0
+max_filtered_sgnfc= 14.2750409473
+B is zero or negative-> [ 1.0 , 1.0 ]
+0.93 1500
+--> b decreasing to under 2% 0.0926473680079
+--> s decreasing to under 10% 0.0842765326746
+0.94 1500
+--> b decreasing to under 2% 0.0768339432285
+--> s decreasing to under 10% 0.0676960338686
+0.95 1500
+--> b decreasing to under 2% 0.060016809413
+--> s decreasing to under 10% 0.0517399722238
+0.96 1500
+--> b decreasing to under 2% 0.046954208689
+--> s decreasing to under 10% 0.0303912098623
+0.97 1500
+--> b decreasing to under 2% 0.0294158316505
+--> s decreasing to under 10% 0.0233570911712
+0.98 1500
+--> b decreasing to under 2% 0.0149132160563
+--> s decreasing to under 10% 0.00971498553263
+0.99 1500
+--> b decreasing to under 2% 0.00325784905687
+--> s decreasing to under 10% 0.00267136339485
+1.0 1500
+--> b decreasing to under 2% 0.0
+--> s decreasing to under 10% 0.0
+max_filtered_sgnfc= 16.2961416021
+B is zero or negative-> [ 1.0 , 1.0 ]
+0.94 2000
+--> b decreasing to under 2% 0.0768339432285
+--> s decreasing to under 10% 0.0833850775787
+0.95 2000
+--> b decreasing to under 2% 0.060016809413
+--> s decreasing to under 10% 0.0632080751552
+0.96 2000
+--> b decreasing to under 2% 0.046954208689
+--> s decreasing to under 10% 0.0424977615862
+0.97 2000
+--> b decreasing to under 2% 0.0294158316505
+--> s decreasing to under 10% 0.0225070061437
+0.98 2000
+--> b decreasing to under 2% 0.0149132160563
+--> s decreasing to under 10% 0.0111065620283
+0.99 2000
+--> b decreasing to under 2% 0.00325784905687
+--> s decreasing to under 10% 0.0025936400033
+1.0 2000
+--> b decreasing to under 2% 0.0
+--> s decreasing to under 10% 0.0
+max_filtered_sgnfc= 16.8077408277
+B is zero or negative-> [ 1.0 , 1.0 ]
+0.95 2500
+--> b decreasing to under 2% 0.060016809413
+--> s decreasing to under 10% 0.0862033338741
+0.96 2500
+--> b decreasing to under 2% 0.046954208689
+--> s decreasing to under 10% 0.0587937103562
+0.97 2500
+--> b decreasing to under 2% 0.0294158316505
+--> s decreasing to under 10% 0.0380063538618
+0.98 2500
+--> b decreasing to under 2% 0.0149132160563
+--> s decreasing to under 10% 0.0203747109238
+0.99 2500
+--> b decreasing to under 2% 0.00325784905687
+--> s decreasing to under 10% 0.00709317968887
+1.0 2500
+--> b decreasing to under 2% 0.0
+--> s decreasing to under 10% 0.0
+max_filtered_sgnfc= 16.8229952835
+B is zero or negative-> [ 1.0 , 1.0 ]
+0.96 3000
+--> b decreasing to under 2% 0.046954208689
+--> s decreasing to under 10% 0.0804658039139
+0.97 3000
+--> b decreasing to under 2% 0.0294158316505
+--> s decreasing to under 10% 0.0555032973726
+0.98 3000
+--> b decreasing to under 2% 0.0149132160563
+--> s decreasing to under 10% 0.0304789827988
+0.99 3000
+--> b decreasing to under 2% 0.00325784905687
+--> s decreasing to under 10% 0.00889738040505
+1.0 3000
+--> b decreasing to under 2% 0.0
+--> s decreasing to under 10% 0.0
+max_filtered_sgnfc= 17.6438292828
+B is zero or negative-> [ 1.0 , 1.0 ]
+0.97 4000
+--> b decreasing to under 2% 0.0294158316505
+--> s decreasing to under 10% 0.0686153279251
+0.98 4000
+--> b decreasing to under 2% 0.0149132160563
+--> s decreasing to under 10% 0.0352832436321
+0.99 4000
+--> b decreasing to under 2% 0.00325784905687
+--> s decreasing to under 10% 0.0110014860944
+1.0 4000
+--> b decreasing to under 2% 0.0
+--> s decreasing to under 10% 0.0
+max_filtered_sgnfc= 13.4426342073
+B is zero or negative-> [ 1.0 , 1.0 ]
+0.96 5000
+--> b decreasing to under 2% 0.046954208689
+--> s decreasing to under 10% 0.0977112935205
+0.97 5000
+--> b decreasing to under 2% 0.0294158316505
+--> s decreasing to under 10% 0.0589770132668
+0.98 5000
+--> b decreasing to under 2% 0.0149132160563
+--> s decreasing to under 10% 0.031243687436
+0.99 5000
+--> b decreasing to under 2% 0.00325784905687
+--> s decreasing to under 10% 0.0103789126752
+1.0 5000
+--> b decreasing to under 2% 0.0
+--> s decreasing to under 10% 0.0
+max_filtered_sgnfc= 12.6070584674
+B is zero or negative-> [ 1.0 , 1.0 ]
+0.89 800
+--> b decreasing to under 2% 0.161057690927
+--> s decreasing to under 10% 0.0912819948787
+0.9 800
+--> b decreasing to under 2% 0.141914851354
+--> s decreasing to under 10% 0.0772943516683
+0.91 800
+--> b decreasing to under 2% 0.124130439192
+--> s decreasing to under 10% 0.0668567566847
+0.92 800
+--> b decreasing to under 2% 0.10662060333
+--> s decreasing to under 10% 0.0500596193084
+0.93 800
+--> b decreasing to under 2% 0.0926473680079
+--> s decreasing to under 10% 0.0380060843068
+0.94 800
+--> b decreasing to under 2% 0.0768339432285
+--> s decreasing to under 10% 0.0316208359107
+0.95 800
+--> b decreasing to under 2% 0.060016809413
+--> s decreasing to under 10% 0.0213655266865
+0.96 800
+--> b decreasing to under 2% 0.046954208689
+--> s decreasing to under 10% 0.0163452889817
+0.97 800
+--> b decreasing to under 2% 0.0294158316505
+--> s decreasing to under 10% 0.0108121534134
+0.98 800
+--> b decreasing to under 2% 0.0149132160563
+--> s decreasing to under 10% 0.00424281719973
+0.99 800
+--> b decreasing to under 2% 0.00325784905687
+--> s decreasing to under 10% 0.000310064806055
+1.0 800
+--> b decreasing to under 2% 0.0
+--> s decreasing to under 10% 0.0
+B is zero or negative-> [ 1.0 , 1.0 ]
+0.89 900
+--> b decreasing to under 2% 0.161057690927
+--> s decreasing to under 10% 0.0897413062287
+0.9 900
+--> b decreasing to under 2% 0.141914851354
+--> s decreasing to under 10% 0.0748872574135
+0.91 900
+--> b decreasing to under 2% 0.124130439192
+--> s decreasing to under 10% 0.0626968183717
+0.92 900
+--> b decreasing to under 2% 0.10662060333
+--> s decreasing to under 10% 0.0496100944279
+0.93 900
+--> b decreasing to under 2% 0.0926473680079
+--> s decreasing to under 10% 0.0399242253694
+0.94 900
+--> b decreasing to under 2% 0.0768339432285
+--> s decreasing to under 10% 0.0328108655546
+0.95 900
+--> b decreasing to under 2% 0.060016809413
+--> s decreasing to under 10% 0.0248511891736
+0.96 900
+--> b decreasing to under 2% 0.046954208689
+--> s decreasing to under 10% 0.0151889410317
+0.97 900
+--> b decreasing to under 2% 0.0294158316505
+--> s decreasing to under 10% 0.0104724064052
+0.98 900
+--> b decreasing to under 2% 0.0149132160563
+--> s decreasing to under 10% 0.00445743995967
+0.99 900
+--> b decreasing to under 2% 0.00325784905687
+--> s decreasing to under 10% 0.000662172295767
+1.0 900
+--> b decreasing to under 2% 0.0
+--> s decreasing to under 10% 0.0
+B is zero or negative-> [ 1.0 , 1.0 ]
+0.9 1000
+--> b decreasing to under 2% 0.141914851354
+--> s decreasing to under 10% 0.0870917054002
+0.91 1000
+--> b decreasing to under 2% 0.124130439192
+--> s decreasing to under 10% 0.073664658535
+0.92 1000
+--> b decreasing to under 2% 0.10662060333
+--> s decreasing to under 10% 0.0608382102405
+0.93 1000
+--> b decreasing to under 2% 0.0926473680079
+--> s decreasing to under 10% 0.0473239533929
+0.94 1000
+--> b decreasing to under 2% 0.0768339432285
+--> s decreasing to under 10% 0.0359995671769
+0.95 1000
+--> b decreasing to under 2% 0.060016809413
+--> s decreasing to under 10% 0.0264567440168
+0.96 1000
+--> b decreasing to under 2% 0.046954208689
+--> s decreasing to under 10% 0.0165250145185
+0.97 1000
+--> b decreasing to under 2% 0.0294158316505
+--> s decreasing to under 10% 0.00918330177051
+0.98 1000
+--> b decreasing to under 2% 0.0149132160563
+--> s decreasing to under 10% 0.00368524059392
+0.99 1000
+--> b decreasing to under 2% 0.00325784905687
+--> s decreasing to under 10% 0.000541865745955
+1.0 1000
+--> b decreasing to under 2% 0.0
+--> s decreasing to under 10% 0.0
+B is zero or negative-> [ 1.0 , 1.0 ]
+0.93 1500
+--> b decreasing to under 2% 0.0926473680079
+--> s decreasing to under 10% 0.0842765326746
+0.94 1500
+--> b decreasing to under 2% 0.0768339432285
+--> s decreasing to under 10% 0.0676960338686
+0.95 1500
+--> b decreasing to under 2% 0.060016809413
+--> s decreasing to under 10% 0.0517399722238
+0.96 1500
+--> b decreasing to under 2% 0.046954208689
+--> s decreasing to under 10% 0.0303912098623
+0.97 1500
+--> b decreasing to under 2% 0.0294158316505
+--> s decreasing to under 10% 0.0233570911712
+0.98 1500
+--> b decreasing to under 2% 0.0149132160563
+--> s decreasing to under 10% 0.00971498553263
+0.99 1500
+--> b decreasing to under 2% 0.00325784905687
+--> s decreasing to under 10% 0.00267136339485
+1.0 1500
+--> b decreasing to under 2% 0.0
+--> s decreasing to under 10% 0.0
+B is zero or negative-> [ 1.0 , 1.0 ]
+0.94 2000
+--> b decreasing to under 2% 0.0768339432285
+--> s decreasing to under 10% 0.0833850775787
+0.95 2000
+--> b decreasing to under 2% 0.060016809413
+--> s decreasing to under 10% 0.0632080751552
+0.96 2000
+--> b decreasing to under 2% 0.046954208689
+--> s decreasing to under 10% 0.0424977615862
+0.97 2000
+--> b decreasing to under 2% 0.0294158316505
+--> s decreasing to under 10% 0.0225070061437
+0.98 2000
+--> b decreasing to under 2% 0.0149132160563
+--> s decreasing to under 10% 0.0111065620283
+0.99 2000
+--> b decreasing to under 2% 0.00325784905687
+--> s decreasing to under 10% 0.0025936400033
+1.0 2000
+--> b decreasing to under 2% 0.0
+--> s decreasing to under 10% 0.0
+B is zero or negative-> [ 1.0 , 1.0 ]
+0.95 2500
+--> b decreasing to under 2% 0.060016809413
+--> s decreasing to under 10% 0.0862033338741
+0.96 2500
+--> b decreasing to under 2% 0.046954208689
+--> s decreasing to under 10% 0.0587937103562
+0.97 2500
+--> b decreasing to under 2% 0.0294158316505
+--> s decreasing to under 10% 0.0380063538618
+0.98 2500
+--> b decreasing to under 2% 0.0149132160563
+--> s decreasing to under 10% 0.0203747109238
+0.99 2500
+--> b decreasing to under 2% 0.00325784905687
+--> s decreasing to under 10% 0.00709317968887
+1.0 2500
+--> b decreasing to under 2% 0.0
+--> s decreasing to under 10% 0.0
+B is zero or negative-> [ 1.0 , 1.0 ]
+0.96 3000
+--> b decreasing to under 2% 0.046954208689
+--> s decreasing to under 10% 0.0804658039139
+0.97 3000
+--> b decreasing to under 2% 0.0294158316505
+--> s decreasing to under 10% 0.0555032973726
+0.98 3000
+--> b decreasing to under 2% 0.0149132160563
+--> s decreasing to under 10% 0.0304789827988
+0.99 3000
+--> b decreasing to under 2% 0.00325784905687
+--> s decreasing to under 10% 0.00889738040505
+1.0 3000
+--> b decreasing to under 2% 0.0
+--> s decreasing to under 10% 0.0
+B is zero or negative-> [ 1.0 , 1.0 ]
+0.97 4000
+--> b decreasing to under 2% 0.0294158316505
+--> s decreasing to under 10% 0.0686153279251
+0.98 4000
+--> b decreasing to under 2% 0.0149132160563
+--> s decreasing to under 10% 0.0352832436321
+0.99 4000
+--> b decreasing to under 2% 0.00325784905687
+--> s decreasing to under 10% 0.0110014860944
+1.0 4000
+--> b decreasing to under 2% 0.0
+--> s decreasing to under 10% 0.0
+B is zero or negative-> [ 1.0 , 1.0 ]
+0.96 5000
+--> b decreasing to under 2% 0.046954208689
+--> s decreasing to under 10% 0.0977112935205
+0.97 5000
+--> b decreasing to under 2% 0.0294158316505
+--> s decreasing to under 10% 0.0589770132668
+0.98 5000
+--> b decreasing to under 2% 0.0149132160563
+--> s decreasing to under 10% 0.031243687436
+0.99 5000
+--> b decreasing to under 2% 0.00325784905687
+--> s decreasing to under 10% 0.0103789126752
+1.0 5000
+--> b decreasing to under 2% 0.0
+--> s decreasing to under 10% 0.0
+[750, 850, 950, 1250, 1750, 2250, 2750, 3500, 4500, 5500]
+B is zero or negative-> [ 1.0 , 1.0 ]
+0.89 800
+--> b decreasing to under 2% 0.161057690927
+--> s decreasing to under 10% 0.0912819948787
+0.9 800
+--> b decreasing to under 2% 0.141914851354
+--> s decreasing to under 10% 0.0772943516683
+0.91 800
+--> b decreasing to under 2% 0.124130439192
+--> s decreasing to under 10% 0.0668567566847
+0.92 800
+--> b decreasing to under 2% 0.10662060333
+--> s decreasing to under 10% 0.0500596193084
+0.93 800
+--> b decreasing to under 2% 0.0926473680079
+--> s decreasing to under 10% 0.0380060843068
+0.94 800
+--> b decreasing to under 2% 0.0768339432285
+--> s decreasing to under 10% 0.0316208359107
+0.95 800
+--> b decreasing to under 2% 0.060016809413
+--> s decreasing to under 10% 0.0213655266865
+0.96 800
+--> b decreasing to under 2% 0.046954208689
+--> s decreasing to under 10% 0.0163452889817
+0.97 800
+--> b decreasing to under 2% 0.0294158316505
+--> s decreasing to under 10% 0.0108121534134
+0.98 800
+--> b decreasing to under 2% 0.0149132160563
+--> s decreasing to under 10% 0.00424281719973
+0.99 800
+--> b decreasing to under 2% 0.00325784905687
+--> s decreasing to under 10% 0.000310064806055
+1.0 800
+--> b decreasing to under 2% 0.0
+--> s decreasing to under 10% 0.0
+max_filtered_sgnfc= 14.0086546338
+B is zero or negative-> [ 1.0 , 1.0 ]
+0.89 900
+--> b decreasing to under 2% 0.161057690927
+--> s decreasing to under 10% 0.0897413062287
+0.9 900
+--> b decreasing to under 2% 0.141914851354
+--> s decreasing to under 10% 0.0748872574135
+0.91 900
+--> b decreasing to under 2% 0.124130439192
+--> s decreasing to under 10% 0.0626968183717
+0.92 900
+--> b decreasing to under 2% 0.10662060333
+--> s decreasing to under 10% 0.0496100944279
+0.93 900
+--> b decreasing to under 2% 0.0926473680079
+--> s decreasing to under 10% 0.0399242253694
+0.94 900
+--> b decreasing to under 2% 0.0768339432285
+--> s decreasing to under 10% 0.0328108655546
+0.95 900
+--> b decreasing to under 2% 0.060016809413
+--> s decreasing to under 10% 0.0248511891736
+0.96 900
+--> b decreasing to under 2% 0.046954208689
+--> s decreasing to under 10% 0.0151889410317
+0.97 900
+--> b decreasing to under 2% 0.0294158316505
+--> s decreasing to under 10% 0.0104724064052
+0.98 900
+--> b decreasing to under 2% 0.0149132160563
+--> s decreasing to under 10% 0.00445743995967
+0.99 900
+--> b decreasing to under 2% 0.00325784905687
+--> s decreasing to under 10% 0.000662172295767
+1.0 900
+--> b decreasing to under 2% 0.0
+--> s decreasing to under 10% 0.0
+max_filtered_sgnfc= 14.2396293596
+B is zero or negative-> [ 1.0 , 1.0 ]
+0.9 1000
+--> b decreasing to under 2% 0.141914851354
+--> s decreasing to under 10% 0.0870917054002
+0.91 1000
+--> b decreasing to under 2% 0.124130439192
+--> s decreasing to under 10% 0.073664658535
+0.92 1000
+--> b decreasing to under 2% 0.10662060333
+--> s decreasing to under 10% 0.0608382102405
+0.93 1000
+--> b decreasing to under 2% 0.0926473680079
+--> s decreasing to under 10% 0.0473239533929
+0.94 1000
+--> b decreasing to under 2% 0.0768339432285
+--> s decreasing to under 10% 0.0359995671769
+0.95 1000
+--> b decreasing to under 2% 0.060016809413
+--> s decreasing to under 10% 0.0264567440168
+0.96 1000
+--> b decreasing to under 2% 0.046954208689
+--> s decreasing to under 10% 0.0165250145185
+0.97 1000
+--> b decreasing to under 2% 0.0294158316505
+--> s decreasing to under 10% 0.00918330177051
+0.98 1000
+--> b decreasing to under 2% 0.0149132160563
+--> s decreasing to under 10% 0.00368524059392
+0.99 1000
+--> b decreasing to under 2% 0.00325784905687
+--> s decreasing to under 10% 0.000541865745955
+1.0 1000
+--> b decreasing to under 2% 0.0
+--> s decreasing to under 10% 0.0
+max_filtered_sgnfc= 14.2750409473
+B is zero or negative-> [ 1.0 , 1.0 ]
+0.93 1500
+--> b decreasing to under 2% 0.0926473680079
+--> s decreasing to under 10% 0.0842765326746
+0.94 1500
+--> b decreasing to under 2% 0.0768339432285
+--> s decreasing to under 10% 0.0676960338686
+0.95 1500
+--> b decreasing to under 2% 0.060016809413
+--> s decreasing to under 10% 0.0517399722238
+0.96 1500
+--> b decreasing to under 2% 0.046954208689
+--> s decreasing to under 10% 0.0303912098623
+0.97 1500
+--> b decreasing to under 2% 0.0294158316505
+--> s decreasing to under 10% 0.0233570911712
+0.98 1500
+--> b decreasing to under 2% 0.0149132160563
+--> s decreasing to under 10% 0.00971498553263
+0.99 1500
+--> b decreasing to under 2% 0.00325784905687
+--> s decreasing to under 10% 0.00267136339485
+1.0 1500
+--> b decreasing to under 2% 0.0
+--> s decreasing to under 10% 0.0
+max_filtered_sgnfc= 16.2961416021
+B is zero or negative-> [ 1.0 , 1.0 ]
+0.94 2000
+--> b decreasing to under 2% 0.0768339432285
+--> s decreasing to under 10% 0.0833850775787
+0.95 2000
+--> b decreasing to under 2% 0.060016809413
+--> s decreasing to under 10% 0.0632080751552
+0.96 2000
+--> b decreasing to under 2% 0.046954208689
+--> s decreasing to under 10% 0.0424977615862
+0.97 2000
+--> b decreasing to under 2% 0.0294158316505
+--> s decreasing to under 10% 0.0225070061437
+0.98 2000
+--> b decreasing to under 2% 0.0149132160563
+--> s decreasing to under 10% 0.0111065620283
+0.99 2000
+--> b decreasing to under 2% 0.00325784905687
+--> s decreasing to under 10% 0.0025936400033
+1.0 2000
+--> b decreasing to under 2% 0.0
+--> s decreasing to under 10% 0.0
+max_filtered_sgnfc= 16.8077408277
+B is zero or negative-> [ 1.0 , 1.0 ]
+0.95 2500
+--> b decreasing to under 2% 0.060016809413
+--> s decreasing to under 10% 0.0862033338741
+0.96 2500
+--> b decreasing to under 2% 0.046954208689
+--> s decreasing to under 10% 0.0587937103562
+0.97 2500
+--> b decreasing to under 2% 0.0294158316505
+--> s decreasing to under 10% 0.0380063538618
+0.98 2500
+--> b decreasing to under 2% 0.0149132160563
+--> s decreasing to under 10% 0.0203747109238
+0.99 2500
+--> b decreasing to under 2% 0.00325784905687
+--> s decreasing to under 10% 0.00709317968887
+1.0 2500
+--> b decreasing to under 2% 0.0
+--> s decreasing to under 10% 0.0
+max_filtered_sgnfc= 16.8229952835
+B is zero or negative-> [ 1.0 , 1.0 ]
+0.96 3000
+--> b decreasing to under 2% 0.046954208689
+--> s decreasing to under 10% 0.0804658039139
+0.97 3000
+--> b decreasing to under 2% 0.0294158316505
+--> s decreasing to under 10% 0.0555032973726
+0.98 3000
+--> b decreasing to under 2% 0.0149132160563
+--> s decreasing to under 10% 0.0304789827988
+0.99 3000
+--> b decreasing to under 2% 0.00325784905687
+--> s decreasing to under 10% 0.00889738040505
+1.0 3000
+--> b decreasing to under 2% 0.0
+--> s decreasing to under 10% 0.0
+max_filtered_sgnfc= 17.6438292828
+B is zero or negative-> [ 1.0 , 1.0 ]
+0.97 4000
+--> b decreasing to under 2% 0.0294158316505
+--> s decreasing to under 10% 0.0686153279251
+0.98 4000
+--> b decreasing to under 2% 0.0149132160563
+--> s decreasing to under 10% 0.0352832436321
+0.99 4000
+--> b decreasing to under 2% 0.00325784905687
+--> s decreasing to under 10% 0.0110014860944
+1.0 4000
+--> b decreasing to under 2% 0.0
+--> s decreasing to under 10% 0.0
+max_filtered_sgnfc= 13.4426342073
+B is zero or negative-> [ 1.0 , 1.0 ]
+0.96 5000
+--> b decreasing to under 2% 0.046954208689
+--> s decreasing to under 10% 0.0977112935205
+0.97 5000
+--> b decreasing to under 2% 0.0294158316505
+--> s decreasing to under 10% 0.0589770132668
+0.98 5000
+--> b decreasing to under 2% 0.0149132160563
+--> s decreasing to under 10% 0.031243687436
+0.99 5000
+--> b decreasing to under 2% 0.00325784905687
+--> s decreasing to under 10% 0.0103789126752
+1.0 5000
+--> b decreasing to under 2% 0.0
+--> s decreasing to under 10% 0.0
+max_filtered_sgnfc= 12.6070584674
+B is zero or negative-> [ 1.0 , 1.0 ]
+0.89 800
+--> b decreasing to under 2% 0.161057690927
+--> s decreasing to under 10% 0.0912819948787
+0.9 800
+--> b decreasing to under 2% 0.141914851354
+--> s decreasing to under 10% 0.0772943516683
+0.91 800
+--> b decreasing to under 2% 0.124130439192
+--> s decreasing to under 10% 0.0668567566847
+0.92 800
+--> b decreasing to under 2% 0.10662060333
+--> s decreasing to under 10% 0.0500596193084
+0.93 800
+--> b decreasing to under 2% 0.0926473680079
+--> s decreasing to under 10% 0.0380060843068
+0.94 800
+--> b decreasing to under 2% 0.0768339432285
+--> s decreasing to under 10% 0.0316208359107
+0.95 800
+--> b decreasing to under 2% 0.060016809413
+--> s decreasing to under 10% 0.0213655266865
+0.96 800
+--> b decreasing to under 2% 0.046954208689
+--> s decreasing to under 10% 0.0163452889817
+0.97 800
+--> b decreasing to under 2% 0.0294158316505
+--> s decreasing to under 10% 0.0108121534134
+0.98 800
+--> b decreasing to under 2% 0.0149132160563
+--> s decreasing to under 10% 0.00424281719973
+0.99 800
+--> b decreasing to under 2% 0.00325784905687
+--> s decreasing to under 10% 0.000310064806055
+1.0 800
+--> b decreasing to under 2% 0.0
+--> s decreasing to under 10% 0.0
+B is zero or negative-> [ 1.0 , 1.0 ]
+0.89 900
+--> b decreasing to under 2% 0.161057690927
+--> s decreasing to under 10% 0.0897413062287
+0.9 900
+--> b decreasing to under 2% 0.141914851354
+--> s decreasing to under 10% 0.0748872574135
+0.91 900
+--> b decreasing to under 2% 0.124130439192
+--> s decreasing to under 10% 0.0626968183717
+0.92 900
+--> b decreasing to under 2% 0.10662060333
+--> s decreasing to under 10% 0.0496100944279
+0.93 900
+--> b decreasing to under 2% 0.0926473680079
+--> s decreasing to under 10% 0.0399242253694
+0.94 900
+--> b decreasing to under 2% 0.0768339432285
+--> s decreasing to under 10% 0.0328108655546
+0.95 900
+--> b decreasing to under 2% 0.060016809413
+--> s decreasing to under 10% 0.0248511891736
+0.96 900
+--> b decreasing to under 2% 0.046954208689
+--> s decreasing to under 10% 0.0151889410317
+0.97 900
+--> b decreasing to under 2% 0.0294158316505
+--> s decreasing to under 10% 0.0104724064052
+0.98 900
+--> b decreasing to under 2% 0.0149132160563
+--> s decreasing to under 10% 0.00445743995967
+0.99 900
+--> b decreasing to under 2% 0.00325784905687
+--> s decreasing to under 10% 0.000662172295767
+1.0 900
+--> b decreasing to under 2% 0.0
+--> s decreasing to under 10% 0.0
+B is zero or negative-> [ 1.0 , 1.0 ]
+0.9 1000
+--> b decreasing to under 2% 0.141914851354
+--> s decreasing to under 10% 0.0870917054002
+0.91 1000
+--> b decreasing to under 2% 0.124130439192
+--> s decreasing to under 10% 0.073664658535
+0.92 1000
+--> b decreasing to under 2% 0.10662060333
+--> s decreasing to under 10% 0.0608382102405
+0.93 1000
+--> b decreasing to under 2% 0.0926473680079
+--> s decreasing to under 10% 0.0473239533929
+0.94 1000
+--> b decreasing to under 2% 0.0768339432285
+--> s decreasing to under 10% 0.0359995671769
+0.95 1000
+--> b decreasing to under 2% 0.060016809413
+--> s decreasing to under 10% 0.0264567440168
+0.96 1000
+--> b decreasing to under 2% 0.046954208689
+--> s decreasing to under 10% 0.0165250145185
+0.97 1000
+--> b decreasing to under 2% 0.0294158316505
+--> s decreasing to under 10% 0.00918330177051
+0.98 1000
+--> b decreasing to under 2% 0.0149132160563
+--> s decreasing to under 10% 0.00368524059392
+0.99 1000
+--> b decreasing to under 2% 0.00325784905687
+--> s decreasing to under 10% 0.000541865745955
+1.0 1000
+--> b decreasing to under 2% 0.0
+--> s decreasing to under 10% 0.0
+B is zero or negative-> [ 1.0 , 1.0 ]
+0.93 1500
+--> b decreasing to under 2% 0.0926473680079
+--> s decreasing to under 10% 0.0842765326746
+0.94 1500
+--> b decreasing to under 2% 0.0768339432285
+--> s decreasing to under 10% 0.0676960338686
+0.95 1500
+--> b decreasing to under 2% 0.060016809413
+--> s decreasing to under 10% 0.0517399722238
+0.96 1500
+--> b decreasing to under 2% 0.046954208689
+--> s decreasing to under 10% 0.0303912098623
+0.97 1500
+--> b decreasing to under 2% 0.0294158316505
+--> s decreasing to under 10% 0.0233570911712
+0.98 1500
+--> b decreasing to under 2% 0.0149132160563
+--> s decreasing to under 10% 0.00971498553263
+0.99 1500
+--> b decreasing to under 2% 0.00325784905687
+--> s decreasing to under 10% 0.00267136339485
+1.0 1500
+--> b decreasing to under 2% 0.0
+--> s decreasing to under 10% 0.0
+B is zero or negative-> [ 1.0 , 1.0 ]
+0.94 2000
+--> b decreasing to under 2% 0.0768339432285
+--> s decreasing to under 10% 0.0833850775787
+0.95 2000
+--> b decreasing to under 2% 0.060016809413
+--> s decreasing to under 10% 0.0632080751552
+0.96 2000
+--> b decreasing to under 2% 0.046954208689
+--> s decreasing to under 10% 0.0424977615862
+0.97 2000
+--> b decreasing to under 2% 0.0294158316505
+--> s decreasing to under 10% 0.0225070061437
+0.98 2000
+--> b decreasing to under 2% 0.0149132160563
+--> s decreasing to under 10% 0.0111065620283
+0.99 2000
+--> b decreasing to under 2% 0.00325784905687
+--> s decreasing to under 10% 0.0025936400033
+1.0 2000
+--> b decreasing to under 2% 0.0
+--> s decreasing to under 10% 0.0
+B is zero or negative-> [ 1.0 , 1.0 ]
+0.95 2500
+--> b decreasing to under 2% 0.060016809413
+--> s decreasing to under 10% 0.0862033338741
+0.96 2500
+--> b decreasing to under 2% 0.046954208689
+--> s decreasing to under 10% 0.0587937103562
+0.97 2500
+--> b decreasing to under 2% 0.0294158316505
+--> s decreasing to under 10% 0.0380063538618
+0.98 2500
+--> b decreasing to under 2% 0.0149132160563
+--> s decreasing to under 10% 0.0203747109238
+0.99 2500
+--> b decreasing to under 2% 0.00325784905687
+--> s decreasing to under 10% 0.00709317968887
+1.0 2500
+--> b decreasing to under 2% 0.0
+--> s decreasing to under 10% 0.0
+B is zero or negative-> [ 1.0 , 1.0 ]
+0.96 3000
+--> b decreasing to under 2% 0.046954208689
+--> s decreasing to under 10% 0.0804658039139
+0.97 3000
+--> b decreasing to under 2% 0.0294158316505
+--> s decreasing to under 10% 0.0555032973726
+0.98 3000
+--> b decreasing to under 2% 0.0149132160563
+--> s decreasing to under 10% 0.0304789827988
+0.99 3000
+--> b decreasing to under 2% 0.00325784905687
+--> s decreasing to under 10% 0.00889738040505
+1.0 3000
+--> b decreasing to under 2% 0.0
+--> s decreasing to under 10% 0.0
+B is zero or negative-> [ 1.0 , 1.0 ]
+0.97 4000
+--> b decreasing to under 2% 0.0294158316505
+--> s decreasing to under 10% 0.0686153279251
+0.98 4000
+--> b decreasing to under 2% 0.0149132160563
+--> s decreasing to under 10% 0.0352832436321
+0.99 4000
+--> b decreasing to under 2% 0.00325784905687
+--> s decreasing to under 10% 0.0110014860944
+1.0 4000
+--> b decreasing to under 2% 0.0
+--> s decreasing to under 10% 0.0
+B is zero or negative-> [ 1.0 , 1.0 ]
+0.96 5000
+--> b decreasing to under 2% 0.046954208689
+--> s decreasing to under 10% 0.0977112935205
+0.97 5000
+--> b decreasing to under 2% 0.0294158316505
+--> s decreasing to under 10% 0.0589770132668
+0.98 5000
+--> b decreasing to under 2% 0.0149132160563
+--> s decreasing to under 10% 0.031243687436
+0.99 5000
+--> b decreasing to under 2% 0.00325784905687
+--> s decreasing to under 10% 0.0103789126752
+1.0 5000
+--> b decreasing to under 2% 0.0
+--> s decreasing to under 10% 0.0
+[750, 850, 950, 1250, 1750, 2250, 2750, 3500, 4500, 5500]
+B is zero or negative-> [ 1.0 , 1.0 ]
+max_filtered_sgnfc= 14.0086546338
+B is zero or negative-> [ 1.0 , 1.0 ]
+max_filtered_sgnfc= 14.2396293596
+B is zero or negative-> [ 1.0 , 1.0 ]
+max_filtered_sgnfc= 14.2750409473
+B is zero or negative-> [ 1.0 , 1.0 ]
+max_filtered_sgnfc= 16.2961416021
+B is zero or negative-> [ 1.0 , 1.0 ]
+max_filtered_sgnfc= 16.8077408277
+B is zero or negative-> [ 1.0 , 1.0 ]
+max_filtered_sgnfc= 16.8229952835
+B is zero or negative-> [ 1.0 , 1.0 ]
+max_filtered_sgnfc= 17.6438292828
+B is zero or negative-> [ 1.0 , 1.0 ]
+max_filtered_sgnfc= 13.4426342073
+B is zero or negative-> [ 1.0 , 1.0 ]
+max_filtered_sgnfc= 12.6070584674
+B is zero or negative-> [ 1.0 , 1.0 ]
+B is zero or negative-> [ 1.0 , 1.0 ]
+B is zero or negative-> [ 1.0 , 1.0 ]
+B is zero or negative-> [ 1.0 , 1.0 ]
+B is zero or negative-> [ 1.0 , 1.0 ]
+B is zero or negative-> [ 1.0 , 1.0 ]
+B is zero or negative-> [ 1.0 , 1.0 ]
+B is zero or negative-> [ 1.0 , 1.0 ]
+B is zero or negative-> [ 1.0 , 1.0 ]
+[750, 850, 950, 1250, 1750, 2250, 2750, 3500, 4500, 5500]
+B is zero or negative-> [ 1.0 , 1.0 ]
+max_filtered_sgnfc= 14.0086546338
+B is zero or negative-> [ 1.0 , 1.0 ]
+max_filtered_sgnfc= 14.2396293596
+B is zero or negative-> [ 1.0 , 1.0 ]
+max_filtered_sgnfc= 14.2750409473
+B is zero or negative-> [ 1.0 , 1.0 ]
+max_filtered_sgnfc= 16.2961416021
+B is zero or negative-> [ 1.0 , 1.0 ]
+max_filtered_sgnfc= 16.8077408277
+B is zero or negative-> [ 1.0 , 1.0 ]
+max_filtered_sgnfc= 16.8229952835
+B is zero or negative-> [ 1.0 , 1.0 ]
+max_filtered_sgnfc= 17.6438292828
+B is zero or negative-> [ 1.0 , 1.0 ]
+max_filtered_sgnfc= 13.4426342073
+B is zero or negative-> [ 1.0 , 1.0 ]
+max_filtered_sgnfc= 12.6070584674
+B is zero or negative-> [ 1.0 , 1.0 ]
+B is zero or negative-> [ 1.0 , 1.0 ]
+B is zero or negative-> [ 1.0 , 1.0 ]
+B is zero or negative-> [ 1.0 , 1.0 ]
+B is zero or negative-> [ 1.0 , 1.0 ]
+B is zero or negative-> [ 1.0 , 1.0 ]
+B is zero or negative-> [ 1.0 , 1.0 ]
+B is zero or negative-> [ 1.0 , 1.0 ]
+B is zero or negative-> [ 1.0 , 1.0 ]
+B is zero or negative-> [ 1.0 , 1.0 ]
+B is zero or negative-> [ 1.0 , 1.0 ]
+B is zero or negative-> [ 1.0 , 1.0 ]
+B is zero or negative-> [ 1.0 , 1.0 ]
+B is zero or negative-> [ 1.0 , 1.0 ]
+B is zero or negative-> [ 1.0 , 1.0 ]
+B is zero or negative-> [ 1.0 , 1.0 ]
+B is zero or negative-> [ 1.0 , 1.0 ]
+B is zero or negative-> [ 1.0 , 1.0 ]
+myerr=0
+[ntry=1]

@@ -1,0 +1,9 @@
+executable = /cms_scratch/jhchoi/AN_PLOT_v3_VBFDNN_Opt/CutOptimization/WORKDIR/Boosted2018_M900/run.sh
+universe = vanilla
+output = /cms_scratch/jhchoi/AN_PLOT_v3_VBFDNN_Opt/CutOptimization/WORKDIR/Boosted2018_M900/run.out
+error = /cms_scratch/jhchoi/AN_PLOT_v3_VBFDNN_Opt/CutOptimization/WORKDIR/Boosted2018_M900/run.err
+log = /cms_scratch/jhchoi/AN_PLOT_v3_VBFDNN_Opt/CutOptimization/WORKDIR/Boosted2018_M900/run.log
+request_cpus = 1
+accounting_group=group_cms
+JobBatchName=WORKDIR/Boosted2018_M900
+queue

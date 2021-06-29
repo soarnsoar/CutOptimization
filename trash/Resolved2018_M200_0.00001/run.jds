@@ -1,0 +1,9 @@
+executable = /cms_scratch/jhchoi/AN_PLOT_v3_VBFDNN_Opt/CutOptimization/WORKDIR/Resolved2018_M200_0.00001/run.sh
+universe = vanilla
+output = /cms_scratch/jhchoi/AN_PLOT_v3_VBFDNN_Opt/CutOptimization/WORKDIR/Resolved2018_M200_0.00001/run.out
+error = /cms_scratch/jhchoi/AN_PLOT_v3_VBFDNN_Opt/CutOptimization/WORKDIR/Resolved2018_M200_0.00001/run.err
+log = /cms_scratch/jhchoi/AN_PLOT_v3_VBFDNN_Opt/CutOptimization/WORKDIR/Resolved2018_M200_0.00001/run.log
+request_cpus = 1
+accounting_group=group_cms
+JobBatchName=WORKDIR/Resolved2018_M200_0.00001
+queue
